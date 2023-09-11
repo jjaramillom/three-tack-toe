@@ -1,5 +1,7 @@
+import Model from './components/three/Model';
+
 function App() {
-  return <div>App</div>;
+  return <Model bgColor='green' />;
 }
 
 export default App;
